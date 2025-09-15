@@ -1,3 +1,4 @@
 - .dockerignore
 - work on backend, learn about it too
 - work on frontend :)
+- work in branches because it is fun lol
