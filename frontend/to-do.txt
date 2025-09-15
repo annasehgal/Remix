@@ -1,0 +1,2 @@
+- add jest.config.js
+- package.json
